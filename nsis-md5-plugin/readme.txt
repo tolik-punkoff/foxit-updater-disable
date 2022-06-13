@@ -1,0 +1,1 @@
+NSIS MD5 Oficial plugin (DLL)
