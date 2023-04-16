@@ -1,2 +1,0 @@
-simplem.exe: ba69c0d287a5e3991c2136d2f4002228
-FoxitUpdater.exe, FoxitReaderUpdater.exe: 77b9b7e5296209ab38f3d6d2b5e62117
