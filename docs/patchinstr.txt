@@ -1,0 +1,13 @@
+0041799F JNZ --> NOP NOP
+
+ call    ds:WinHttpOpen
+ mov     ecx, eax
+ mov     [ebp+var_12C0], ecx
+ cmp     ecx, ebx
+ jnz     short loc_4179B8
+ call    ds:GetLastError
+ mov     [ebp+wParam], eax
+ mov     [ebp+var_12A9], bl
+ jmp     loc_417E28
+
+7517 --> 90 90

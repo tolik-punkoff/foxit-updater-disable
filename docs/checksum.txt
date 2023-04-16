@@ -1,0 +1,5 @@
+FoxitUpdater.exe, FoxitReaderUpdater.exe:
+	77b9b7e5296209ab38f3d6d2b5e62117
+
+Patched files:
+	a8fd17cd2d344ad746c4fe6cb3772a03
